@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*Faça um programa C para trocar o valor de duas variáveis inteiras sem utilizar nenhuma variável auxiliar.*/
-
 int main()
 {
     setlocale(LC_ALL, "Portuguese");
